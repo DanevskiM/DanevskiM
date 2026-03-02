@@ -20,6 +20,8 @@ Here are some things I’ve worked on:
 - 👉 https://github.com/DanevskiM/exam_scheduler
 - 💻**Car Rental Service App** - Web-based car rental management system
 - 👉 https://github.com/DanevskiM/CarRentalServiceApplication
+- 💻**MoviesApplication** - Web-based application for searching movies
+- 👉 https://github.com/DanevskiM/MoviesApplication
 
 ## 💼 Open to Work
 I am currently **open to work** and looking for:
