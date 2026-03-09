@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Dart, Java, Python, C# 
-- **Frameworks:** .NET, Flutter
+- **Frameworks:** .NET, Angular, Flutter
 - **Databases:** Firebase, MySQL
 - **Tools:** Git, GitHub, Android Studio, VS Code , InteliJ
 - **Other:** Selenium
