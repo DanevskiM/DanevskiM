@@ -13,6 +13,8 @@ Welcome to my GitHub profile!
 
 ## 📂 Projects
 Here are some things I’ve worked on:
+- 💻**PawPal** - Web-based application for pet stay and care hotel
+- 👉  https://github.com/DanevskiM/PawPal
 - 📱 **Flutter Recipe App** – Mobile app for recipes
 - 👉 https://github.com/DanevskiM/meal_recipe
 - 📱 **Exam Scheduler App** – Mobile app for exam schedules
